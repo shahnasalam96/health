@@ -1,0 +1,58 @@
+.preg{
+    width: 1300px;
+    height:1400 px;
+    border:1px solid #999;
+    padding-right:50px;
+    padding-left:5px;
+    color: brown;
+    background-image: url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 170%;
+    text-align: center;
+    
+  
+    
+}
+.preg input[type=text] , .preg input[type=password], .preg input[type=date], .preg input[type=email] , .preg input[type=file] {
+    width: 80%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.preg table select{
+    width: 80%;
+}
+.preg table td{
+    color: black;
+    
+}
+ 
+ .preg>h1{
+    
+    color: blue;
+    float: left;
+
+  
+    
+}
+.preg>h2{
+
+    font-size: 24px;
+    padding: 50px 240px;
+    padding-left: 5px;
+
+}
+
+
+.preg input[type=submit]{
+    background-color: green;
+    cursor: pointer;
+    width: 100px;
+
+}
+
+

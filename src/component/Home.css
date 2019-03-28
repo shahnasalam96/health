@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    font-style: oblique;
+    font-size: 30px;
+    text-align: center;
+    top: 500px;
+   
+}
+
+.hm p{
+    font-size: 64px;
+    padding: 0px 250px;
+}
+
+.hm{
+    background-image: url('./images/hospital.jpg');
+    width: 1750px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 2px;
+    padding: 20px;
+    
+ 
+ }
+

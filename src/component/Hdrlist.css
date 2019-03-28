@@ -1,0 +1,54 @@
+.hdl{
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    height: 700px;
+    background-image:url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.hdl table {
+    margin-top:100px;
+    background-color: #f2f2f2;
+    margin-left: 700px;
+    
+    
+}
+.hdl .dr{
+    background-color: #f2f2f2;
+    height: 250px;
+    width:400px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+       
+}
+.hdl .dr input[type=text],.hdl .dr input[type=number],  select {
+    width: 30%;
+    padding: 10px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .hdl .dr input[type=submit] {
+    width: 15%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    padding-right: 50px;
+    margin: 80px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+    
+  }
+  
+  .hdl .dr input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  

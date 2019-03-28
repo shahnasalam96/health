@@ -1,0 +1,9 @@
+.card{
+    
+    dispaly: block;
+    border: 1px solid #999;
+    width: 450px;
+    height: 200px;
+    padding: 10px;
+    margin: 12px;    
+}

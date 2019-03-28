@@ -1,0 +1,11 @@
+.dnt{
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    height: 700px;
+    width: 500px;
+    background-image:url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}

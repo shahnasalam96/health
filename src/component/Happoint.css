@@ -1,0 +1,14 @@
+.happ{
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    height: 700px;
+    background-image:url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.happ table {
+    
+    background-color: #f2f2f2;
+}

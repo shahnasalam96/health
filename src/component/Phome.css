@@ -1,0 +1,99 @@
+.ph{
+    background-image: url('./images/hospital.jpg');
+    width: 1310px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 2px;
+    padding: 20px;
+    
+}
+.ph .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    height: 200px;
+    margin-left: 1000px;
+    font-family: arial;
+    text-align:left;
+    float: right;
+    background-color: antiquewhite;
+    left: 1000px;
+  }
+
+  .ph .card2>img{
+    float: right;
+    
+
+  }
+.ph .mainmenu2{
+    height:600px;
+    background-color: #CCC;
+    }
+    
+.ph .navigation2 {
+    width: 200px;
+    height: 500px;
+ margin-top: 0px;
+    width:350px;
+    float: right !important;
+    margin-right:50px;
+    position:relative;
+    padding: 0;
+    text-align: left;
+    bottom: 0px;
+    }
+    
+    
+    .ph .mainmenu2, .ph .submenu ,.ph .submenu1 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    }
+    
+   
+    .ph .mainmenu2 a {
+    display: block;
+    background-color: #CCC;
+    text-decoration: none;
+    padding: 10px;
+    color: #000;
+    }
+    
+   
+    .ph .mainmenu2 a:hover {
+    background-color: #C5C5C5;
+    }
+    
+    
+    
+    
+    .ph .mainmenu2 li:hover .submenu {
+    display: block;
+    max-height: 200px;
+    }
+    
+    
+   
+    
+    .ph .submenu a , .ph .submenu1 a {
+    background-color: #999;
+    }
+    
+   
+    .ph .submenu a:hover {
+    background-color: #666;
+    }
+    .ph .submenu1 a:hover {
+    background-color: #666;
+    }
+   
+    .ph .submenu {
+    overflow: hidden;
+    max-height: 0;
+    /* -webkit-transition: all 0.5s ease-out; */
+    }
+    .ph .submenu1 {
+    overflow: hidden;
+    max-height: 0;
+    /* -webkit-transition: all 0.5s ease-out; */
+    }

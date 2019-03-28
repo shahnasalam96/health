@@ -1,0 +1,57 @@
+.dreg{
+    width: 1400px;
+    height:1400 px;
+    border:1px solid #999;
+    padding-right:50px;
+    padding-left:5px;
+    color: brown;
+    background-image: url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    
+  
+    
+}
+.dreg input[type=text] , .dreg input[type=password], .dreg input[type=date], .dreg input[type=email] , .dreg input[type=file] {
+    width: 80%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.dreg table select{
+    width: 80%;
+}
+.dreg table td{
+    color: black;
+    
+}
+ 
+ .dreg>h1{
+    
+    color: blue;
+    float: left;
+
+  
+    
+}
+.dreg>h2{
+
+    font-size: 24px;
+    padding: 50px 240px;
+    padding-left: 5px;
+
+}
+
+
+input[type=submit]{
+    background-color: green;
+    cursor: pointer;
+
+}
+
+

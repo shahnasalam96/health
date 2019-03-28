@@ -1,0 +1,122 @@
+.dh input[type=submit] {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    right:50px;
+     box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    display: block;
+    float:right;
+
+  }
+  
+  .dh input[type=submit]:hover {
+    background-color: #45a049;
+
+  }
+
+  .dh .dcard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin: auto;
+    text-align: center;
+   
+    text-align:left;
+    background-image: none;
+    float: right;
+    height: 300px;
+    background-color: antiquewhite;
+    font-size: 25px;
+  }
+
+  .dh .dcard>img{
+    float: right;
+    
+
+  }
+
+
+ .dh {
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    height: 800px;
+    background-image:url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+  }
+
+  .dh  h1{
+     text-align: center;
+      color: red;
+      text-shadow: 2px 3px;
+      font-size: 30px;
+      width: 50px;
+    
+  }
+ 
+      .dh .mainmenu1{
+    height:600px;
+    background-color:deepskyblue;
+    }
+    
+     .dh .navigation1 {
+    width: 300px;
+    height: 500px;
+    font-size: 25px;
+    }
+    
+    
+    .dh .mainmenu1, .lh .submenu1 ,.lh .submenu1 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    }
+    
+   
+    .dh .mainmenu1 a {
+    display: block;
+    background-color:deepskyblue;
+    text-decoration: none;
+    padding: 10px;
+    color: #000;
+    }
+    
+   
+    .dh .mainmenu1 a:hover {
+    background-color:#999;
+    }
+    .dh .mainmenu1 li:hover .submenu1 {
+    display: block;
+    max-height: 200px;
+    }
+    
+    .dh .submenu1 a , .dh .submenu1 a {
+    background-color: #999;
+    }
+    
+   
+    .dh .submenu1 a:hover {
+    background-color: #666;
+    }
+    .dh .submenu1 a:hover {
+    background-color: #666;
+    }
+   
+    .dh .submenu1 {
+    overflow: hidden;
+    max-height: 0;
+    -webkit-transition: all 0.5s ease-out;
+    }
+    .dh .submenu1 {
+    overflow: hidden;
+    max-height: 0;
+    -webkit-transition: all 0.5s ease-out;
+    }
+    

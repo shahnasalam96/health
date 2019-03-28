@@ -1,0 +1,96 @@
+.dp .body input[type=text],select {
+    width: 45%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .dp  input[type=submit] {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    right:50px;
+     box-shadow: 0 5px #666;
+    transform: translateY(4px);
+   
+
+  }
+  .dp .btn{
+    float: unset;
+    
+  }
+  
+  .dp input[type=submit]:hover {
+    background-color: #45a049;
+
+  }
+
+
+  .dp .card1 {
+    width: 500px;
+    height: 450px;
+    margin: auto;
+    text-align: left;
+    background-image: none;
+    float: right;
+    background-color: antiquewhite;
+    font-size: 20px;
+  }
+
+  .dp .card1>img{
+    float: right;
+  }
+  
+
+  
+  .dp  {
+    
+    background-image:url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    padding:50px;
+
+  }
+
+  .dp  h1{
+      text-align: left;
+      color: blueviolet;
+      text-shadow: 2px 3px;
+      font-size: 30px;
+    
+  }
+  .dp h2{
+    text-shadow: 2px 2px;
+    font-size: 24px;
+    padding: 0px 250px;
+
+  }
+  
+  .dp div>tr,td{
+    width: 450px;
+     padding: 10px;
+
+  }
+
+   div>sub{
+  float: right;
+  display:block;
+  clear:right;
+  padding: 15px 32px;
+  text-align: center;
+  
+  }
+  
+  
+ 
+ 
+      
+  

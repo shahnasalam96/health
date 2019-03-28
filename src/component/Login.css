@@ -1,0 +1,71 @@
+.imgg input[type=text], select {
+    width: 30%;
+    padding: 10px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  
+  }
+  .imgg input[type=password], select {
+    width: 30%;
+    padding: 10px 5px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+ 
+    
+    
+  }
+  .imgg input[type=submit] {
+    width: 15%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    padding-right: 50px;
+    margin: 80px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+    
+  }
+  
+  .imgg input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .imgg {
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    background-image:url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:600px;
+      
+  }
+  .imgg h1{
+      text-align: left;
+      color: blueviolet;
+      text-shadow: 2px 3px;
+    
+  }
+ .imgg h2{
+    text-shadow: 2px 3px;
+    font-size: 24px;
+    padding: 50px 250px;
+    
+  
+  }
+  
+ .imgg h3{
+      text-align: center;
+      font-size: 25px;
+  }
+  

@@ -1,0 +1,85 @@
+ 
+
+ .lh {
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    height: 600px;
+    background-image:url(./images/hospital.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+  }
+ .lh h1{
+     color: brown;
+     text-align: center;
+ }
+ 
+  .lh html,.lh body {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .lh .mainmenu3{
+    height:600px;
+    background-color:deepskyblue;
+    }
+    
+     .lh .navigation3 {
+    width: 200px;
+    height: 500px;
+    position: fixed;
+    }
+    
+    
+    .lh .mainmenu3, .lh .submenu3 ,.lh .submenu3 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    }
+    
+   
+    .lh .mainmenu3 a {
+    display: block;
+    background-color:deepskyblue;
+    text-decoration: none;
+    padding: 10px;
+    color: #000;
+    }
+    
+   
+    .lh .mainmenu3 a:hover {
+    background-color:#999;
+    }
+    
+    
+    
+    
+    .lh .mainmenu3 li:hover .submenu3 {
+    display: block;
+    max-height: 200px;
+    }
+    
+    
+   
+    
+    .lh .submenu3 a , .lh .submenu3 a {
+    background-color: #999;
+    }
+    
+   
+    .lh .submenu3 a:hover {
+    background-color: #666;
+    }
+    .lh .submenu3 a:hover {
+    background-color: #666;
+    }
+   
+    .lh .submenu3 {
+    overflow: hidden;
+    max-height: 0;
+    -webkit-transition: all 0.5s ease-out;
+    }
+    .lh .submenu3 {
+    overflow: hidden;
+    max-height: 0;
+    -webkit-transition: all 0.5s ease-out;
+    }
